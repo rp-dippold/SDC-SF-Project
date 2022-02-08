@@ -1,0 +1,11 @@
+numpy==1.20.3
+opencv-python==4.5.5.62
+protobuf==3.19.4
+easydict==1.9
+torch==1.10.2
+Pillow==9.0.0
+matplotlib==3.5.1
+Shapely==1.8.0
+tqdm==4.61.2
+open3d==0.14.1
+wxPython==4.1.1
